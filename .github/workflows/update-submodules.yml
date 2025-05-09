@@ -32,6 +32,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No submodule updates."
           else
-            git commit -m "update commit"
+            git commit -m "updated - $(date +"%Y-%m-%d %H:%M:%S")"
             git push
           fi
