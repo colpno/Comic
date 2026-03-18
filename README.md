@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+G<a name="readme-top"></a>
 
 <div align="center">
   <h3 align="center">
@@ -263,7 +263,7 @@ run file `rundev.sh` by:
 
 Tạ Gia Vinh
 
-- <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Gmail" style="vertical-align: middle;"> : gvinhh@gmail.com
+- <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Gmail" style="vertical-align: middle;"> : tagiavinh12@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
